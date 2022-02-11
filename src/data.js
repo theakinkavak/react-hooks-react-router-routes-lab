@@ -54,4 +54,4 @@ const directors = [
   },
 ];
 
-export { movies, actors, directors };
+export { directors, actors, movies}
